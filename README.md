@@ -321,4 +321,3 @@ Ohne diese Projekte wäre JumpDock nicht möglich. Danke an alle Maintainer!
 [⬆ Nach oben](#jumpdock) · [Releases](https://github.com/dvelop/JumpDock-Releases/releases) · [Issues](https://github.com/dvelop/JumpDock-Releases/issues)
 
 </div>
-```
