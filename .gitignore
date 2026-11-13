@@ -1,0 +1,13 @@
+# Build-Artefakte (nicht ins Repo – gehören in GitHub Releases)
+*.exe
+*.msi
+*.zip
+
+# OS-spezifisch
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Logs
+*.log
+*.tmp
